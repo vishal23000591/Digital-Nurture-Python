@@ -28,27 +28,27 @@ The exercises cover SQL concepts such as:
 
 ## Users Table
 
-![Users Dataset](images/users.png)
+<img src="images/users.png" width="500">
 
 ## Events Table
 
-![Events Dataset](images/events.png)
+<img src="images/events.png" width="500">
 
 ## Sessions Table
 
-![Sessions Dataset](images/sessions.png)
+<img src="images/sessions.png" width="500">
 
 ## Registrations Table
 
-![Registrations Dataset](images/registrations.png)
+<img src="images/registrations.png" width="500">
 
 ## Feedback Table
 
-![Feedback Dataset](images/feedback.png)
+<img src="images/feedback.png" width="500">
 
 ## Resources Table
 
-![Resources Dataset](images/resources.png)
+<img src="images/resources.png" width="500">
 
 ---
 
@@ -62,7 +62,7 @@ Show a list of all upcoming events a user is registered for in their city, sorte
 
 ### Output
 
-![Question 1 Output](images/q1.png)
+<img src="images/q1.png" width="500">
 
 ---
 
@@ -74,7 +74,7 @@ Identify events with the highest average rating, considering only those that hav
 
 ### Output
 
-![Question 2 Output](images/q2.png)
+<img src="images/q2.png" width="500">
 
 ---
 
@@ -86,7 +86,7 @@ Retrieve users who have not registered for any events in the last 90 days.
 
 ### Output
 
-![Question 3 Output](images/q3.png)
+<img src="images/q3.png" width="500">
 
 ---
 
@@ -98,7 +98,7 @@ Count how many sessions are scheduled between 10 AM and 12 PM for each event.
 
 ### Output
 
-![Question 4 Output](images/q4.png)
+<img src="images/q4.png" width="500">
 
 ---
 
@@ -110,7 +110,7 @@ List the top 5 cities with the highest number of distinct user registrations.
 
 ### Output
 
-![Question 5 Output](images/q5.png)
+<img src="images/q5.png" width="500">
 
 ---
 
@@ -122,7 +122,7 @@ Generate a report showing the number of resources (PDFs, Images, Links) uploaded
 
 ### Output
 
-![Question 6 Output](images/q6.png)
+<img src="images/q6.png" width="500">
 
 ---
 
@@ -134,7 +134,7 @@ List all users who gave feedback with a rating less than 3, along with their com
 
 ### Output
 
-![Question 7 Output](images/q7.png)
+<img src="images/q7.png" width="500">
 
 ---
 
@@ -146,7 +146,7 @@ Display all upcoming events with the count of sessions scheduled for them.
 
 ### Output
 
-![Question 8 Output](images/q8.png)
+<img src="images/q8.png" width="500">
 
 ---
 
@@ -158,7 +158,7 @@ For each event organizer, show the number of events created and their current st
 
 ### Output
 
-![Question 9 Output](images/q9.png)
+<img src="images/q9.png" width="500">
 
 ---
 
@@ -170,7 +170,7 @@ Identify events that had registrations but received no feedback at all.
 
 ### Output
 
-![Question 10 Output](images/q10.png)
+<img src="images/q10.png" width="500">
 
 ---
 
@@ -182,7 +182,7 @@ Find the number of users who registered each day in the last 7 days.
 
 ### Output
 
-![Question 11 Output](images/q11.png)
+<img src="images/q11.png" width="500">
 
 ---
 
@@ -194,7 +194,7 @@ List the event(s) with the highest number of sessions.
 
 ### Output
 
-![Question 12 Output](images/q12.png)
+<img src="images/q12.png" width="500">
 
 ---
 
@@ -206,7 +206,7 @@ Calculate the average feedback rating of events conducted in each city.
 
 ### Output
 
-![Question 13 Output](images/q13.png)
+<img src="images/q13.png" width="500">
 
 ---
 
@@ -218,7 +218,7 @@ List the top 3 events based on the total number of user registrations.
 
 ### Output
 
-![Question 14 Output](images/q14.png)
+<img src="images/q14.png" width="500">
 
 ---
 
@@ -230,7 +230,7 @@ Identify overlapping sessions within the same event.
 
 ### Output
 
-![Question 15 Output](images/q15.png)
+<img src="images/q15.png" width="500">
 
 ---
 
@@ -242,7 +242,7 @@ Find users who created an account in the last 30 days but haven’t registered f
 
 ### Output
 
-![Question 16 Output](images/q16.png)
+<img src="images/q16.png" width="500">
 
 ---
 
@@ -254,7 +254,7 @@ Identify speakers who are handling more than one session across all events.
 
 ### Output
 
-![Question 17 Output](images/q17.png)
+<img src="images/q17.png" width="500">
 
 ---
 
@@ -266,7 +266,7 @@ List all events that do not have any resources uploaded.
 
 ### Output
 
-![Question 18 Output](images/q18.png)
+<img src="images/q18.png" width="500">
 
 ---
 
@@ -278,7 +278,7 @@ For completed events, show total registrations and average feedback rating.
 
 ### Output
 
-![Question 19 Output](images/q19.png)
+<img src="images/q19.png" width="500">
 
 ---
 
@@ -290,7 +290,7 @@ For each user, calculate how many events they attended and how many feedbacks th
 
 ### Output
 
-![Question 20 Output](images/q20.png)
+<img src="images/q20.png" width="500">
 
 ---
 
@@ -302,7 +302,7 @@ List the top 5 users who have submitted the most feedback entries.
 
 ### Output
 
-![Question 21 Output](images/q21.png)
+<img src="images/q21.png" width="500">
 
 ---
 
@@ -314,7 +314,7 @@ Detect if a user has been registered more than once for the same event.
 
 ### Output
 
-![Question 22 Output](images/q22.png)
+<img src="images/q22.png" width="500">
 
 ---
 
@@ -326,7 +326,7 @@ Show a month-wise registration count trend over the past 12 months.
 
 ### Output
 
-![Question 23 Output](images/q23.png)
+<img src="images/q23.png" width="500">
 
 ---
 
@@ -338,7 +338,7 @@ Compute the average duration (in minutes) of sessions in each event.
 
 ### Output
 
-![Question 24 Output](images/q24.png)
+<img src="images/q24.png" width="500">
 
 ---
 
@@ -350,7 +350,7 @@ List all events that currently have no sessions scheduled under them.
 
 ### Output
 
-![Question 25 Output](images/q25.png)
+<img src="images/q25.png" width="500">
 
 ---
 
