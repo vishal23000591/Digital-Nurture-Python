@@ -24,14 +24,6 @@ The exercises cover SQL concepts such as:
 
 ---
 
-# Database Schema
-
-## ER Diagram / Schema
-
-![Database Schema](images/schema.png)
-
----
-
 # Sample Dataset
 
 ## Users Table
