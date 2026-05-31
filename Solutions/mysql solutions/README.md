@@ -368,5 +368,5 @@ List all events that currently have no sessions scheduled under them.
 
 **Vishal S**
 
-B.Tech CSE (IoT)  
+B.E. CSE (IoT)  
 Saveetha Engineering College
